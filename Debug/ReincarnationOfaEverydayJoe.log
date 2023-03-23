@@ -1,0 +1,24 @@
+﻿  Button.cpp
+  Game.cpp
+  MainMenuState.cpp
+C:\Users\Johnny\source\repos\ReincarnEverydayJoe\ReincarnationOfaEverydayJoe\MainMenuState.cpp(37,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Johnny\source\repos\ReincarnEverydayJoe\ReincarnationOfaEverydayJoe\MainMenuState.cpp(37,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  Generating Code...
+  ReincarnationOfaEverydayJoe.vcxproj -> C:\Users\Johnny\source\repos\ReincarnEverydayJoe\Debug\ReincarnationOfaEverydayJoe.exe
