@@ -16,7 +16,7 @@ State::State(sf::RenderWindow* window,std::map<std::string, int>* supportedKeys)
 // State class destructor.
 State::~State()
 {
-    // No resources to release.
+    
 }
 
 // Function to return the quit flag value.
